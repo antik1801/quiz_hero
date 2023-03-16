@@ -1,3 +1,8 @@
+# Netlify Link:
+```
+https://shimmering-stardust-ea96d6.netlify.app
+```
+
 # Quiz Hero Now Zero
 
 ### Private Repo Link
