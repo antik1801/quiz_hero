@@ -166,7 +166,9 @@ document.querySelector("#submit").addEventListener("click", () => {
     <div>Grade</div>
     <div>Time</div>
     </div>
-    ${storage
+    ${
+
+      storage
       ?.reverse()
       ?.map(
         (item) => `<div

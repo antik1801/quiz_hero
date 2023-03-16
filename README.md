@@ -1,6 +1,6 @@
 # Netlify Link:
 ```
-https://shimmering-stardust-ea96d6.netlify.app
+https://spectacular-babka-057bc7.netlify.app/
 ```
 
 # Quiz Hero Now Zero
