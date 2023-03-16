@@ -157,7 +157,7 @@ document.querySelector("#submit").addEventListener("click", () => {
   <button onclick="location.reload();" class="bg-green-600 text-white w-full py-2 rounded mt-16">Restart</button>
 
   ${
-    localStorage
+    localStorage 
       ? `<div class="mt-5">
       <h1 class="text-center">Previous Submissions <button class="text-blue-800 text-xs" onclick={localStorage.clear();location.reload()}>Clear History</button></h1>
     <div
